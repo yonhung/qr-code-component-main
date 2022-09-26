@@ -8,7 +8,6 @@
 }
 
 body{
-  position: relative;
   margin:0;
   height: 100vh;
   background-color: var(--light-gray);
@@ -45,6 +44,13 @@ body{
   color:var(--grayish-blue);
   padding:0 1.5rem;
 
+}
+
+footer {
+  position:absolute;
+  bottom: 5px;
+  left:0;
+  right:0;
 }
 
 
